@@ -1,11 +1,11 @@
-📊 Caderno Temático – Análise de Dados para Analista de Dados Júnior
+# 📊 Caderno Temático – Análise de Dados para Analista de Dados Júnior
 Usando IA como Ferramenta de Aprendizagem Ativa com NotebookLM
 
-📌 Contexto e Objetivos
+## 📌 Contexto e Objetivos
 Este projeto foi desenvolvido como parte de um desafio prático da DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, utilizando o NotebookLM para organizar conhecimento, testar prompts e consolidar estudos.
-🎯 Tema do Caderno Temático
+### 🎯 Tema do Caderno Temático
 Análise de Dados para Analista de Dados Júnior
-🎯 Objetivos de Estudo
+### 🎯 Objetivos de Estudo
 
 Compreender os fundamentos da Análise de Dados
 Conhecer o papel e as responsabilidades de um Analista de Dados Júnior
@@ -21,7 +21,7 @@ Desenvolver habilidade de engenharia de prompts
 Criar um miniguia reutilizável para revisões futuras
 
 
-📚 Curadoria de Fontes (Usadas no NotebookLM)
+## 📚 Curadoria de Fontes (Usadas no NotebookLM)
 As fontes abaixo foram selecionadas por serem abertas, confiáveis e amplamente utilizadas na área de dados. Elas foram inseridas no NotebookLM para análise, cruzamento de informações e construção dos resumos.
 
 
@@ -46,7 +46,7 @@ https://towardsdatascience.com/
 
 
 
-🧠 Engenharia de Prompts e Cicatrizes de Aprendizado
+## 🧠 Engenharia de Prompts e Cicatrizes de Aprendizado
 Nesta etapa, o foco foi aprender a perguntar melhor para a IA, testando variações de prompts e analisando a qualidade das respostas.
 🔎 Prompt 1 – Conceito Básico
 Explique o que faz um Analista de Dados Júnior e quais são suas principais responsabilidades.
@@ -88,8 +88,8 @@ Solicitei comparações ou listas
 
 
 
-📘 Miniguia de Estudo – Entrega Final
-✅ Resumo Estruturado
+## 📘 Miniguia de Estudo – Entrega Final
+### ✅ Resumo Estruturado
 📊 O que é Análise de Dados?
 Processo de coletar, limpar, analisar e comunicar dados para apoiar decisões.
 👩‍💻 Analista de Dados Júnior
@@ -107,7 +107,7 @@ Python (Pandas, NumPy)
 Power BI / Tableau
 
 
-📖 Glossário Essencial
+### 📖 Glossário Essencial
 
 | Termo | Definição |
 |------|----------|
@@ -119,7 +119,7 @@ Power BI / Tableau
 
 TermoDefiniçãoDados EstruturadosDados organizados em tabelasEDAAnálise Exploratória de DadosKPIIndicador-chave de desempenhoDatasetConjunto de dadosDashboardVisualização interativa de dados
 
-♻️ Prompts Reutilizáveis (Para Revisão)
+### ♻️ Prompts Reutilizáveis (Para Revisão)
 Explique [conceito] de forma simples para um Analista de Dados Júnior.
 
 Quais são os erros mais comuns de iniciantes em Análise de Dados?
@@ -129,7 +129,7 @@ Crie um resumo rápido sobre [tema] com exemplos práticos.
 Compare SQL e Python no contexto de Análise de Dados para iniciantes.
 
 
-🚀 Conclusão
+## 🚀 Conclusão
 Este projeto demonstrou como a IA pode ser usada além de respostas prontas, atuando como:
 
 Facilitadora do aprendizado
